@@ -10,57 +10,39 @@ toc: true
 **Staff Data Scientist**, Maxar Technologies - Herndon, VA
 
 January 2019 - Present
-* Promoted from Data Scientist to Staff Data Scientist 1/1/2021
-* Brief customers and internal stakeholders on technical progress during program management reviews and technical exchanges
-* Support end to end machine learning pipelines by architecting solutions to customer’s problems, conducting and contributing to applied research, data creation, preparation & validation, training & evaluating models, and analytics development
-* Setup Python data science environments in EC2 instances
+* 
 
 **Geospatial Analyst/Cartographer**, ActioNet, Inc. - Washington, D.C
 
 September 2018 - January 2019
-* Developed and disseminated geospatial and infographic products in support of U.S. foreign policy and national security
-* Wrote Python scripts to process satellite imagery
-* Disseminated satellite imagery through web services such as GeoNode
-* Met with key policy and intelligence stakeholders to identify and scope product requirements
+* 
 
 **Geospatial Data Scientist**, Maxar Technologies - Washington, D.C. / Reston, VA
 
 June 2016 - September 2018
-* Blended all-source intelligence analysis with data science and Python programming to identify and track indicators and warnings, irregular activity, and patterns over areas of interest
-* Wrote or contributed to new functionality for Python scripts to identify locations of significant activity in big spatial datasets; includes geolocated social media, SIGINT exhaust, COMEXT, ELINT, etc.
-* Wrote Python scripts to identify signals of interest and patterns in COMEXT data
-* Wrote Python scripts to identify anomalous mobility activity; e.g. impossible journeys
-* Wrote Python scripts to discover persons of interest (POIs) in online social networks; increased POI database 34%
-* Produced or contributed to 50 raw intelligence reports and 5 finished intel products
-* Embedded in another division to adapt and champion our tools for other missions
-* Briefed senior leaders, other offices, agencies, and courses on our tools
-* Developed and/or contributed to briefing materials for training courses
+* 
 
 **Intern**, U.S. Department of State - Washington, D.C
 
 March 2016 - June 2016
-* Developed and disseminated geospatial and infographic products in support of U.S. foreign policy and national security
-* Wrote Python scripts to process satellite imagery
-* Disseminated satellite imagery through web services such as GeoNode
-* Met with key policy and intelligence stakeholders to identify and scope product requirements
+* 
 
 **Geospatial Analyst**, Virginia Tech - Blacksburg, VA
 
 March 2014 - June 2016
-* Geolocated vehicle crashes in the Commonwealth of Virginia
-* Developed geospatial site suitability analytics
+* 
 
 ------------
 
 ## Projects
-See [Projects](https://andrewryanx.github.io/projects)
+See [Projects](https://andrewryanx.github.io/site/projects/)
 
 ------------
 
 ## Skills
 **Programming Languages:** Python, SQL
 
-**Data Science:** Python, machine learning, exploratory data analysis, descriptive statistics, data cleaning, feature engineering, data visualization, NVIDIA DIGITS, Jupyter Notebooks
+**Data Science:** Python, machine learning, deep learning, exploratory data analysis, descriptive statistics, data cleaning, feature engineering, data visualization, NVIDIA DIGITS, Jupyter Notebooks
 
 **Domain Expertise:** Geospatial analytics, All-Source intelligence, Pattern of Life analytics, social network analysis
 
