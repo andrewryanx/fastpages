@@ -5,7 +5,7 @@ description:
 layout: post
 toc: true
 comments: false
-categories: [ML, Python]
+categories: [Machine Learning, Python]
 sticky_rank: 3
 ---
 
