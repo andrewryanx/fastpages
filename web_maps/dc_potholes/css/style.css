@@ -1,0 +1,45 @@
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+   crossorigin=""/>
+
+!-- Make sure you put this AFTER Leaflet's CSS -->
+ <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"
+   integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA=="
+   crossorigin=""></script>
+
+<script src="dist/leaflet-control-boxzoom.js"></script>
+<link rel="stylesheet" href="dist/leaflet-control-boxzoom.css" />
+
+<link rel="stylesheet" type="text/css" href="src/leaflet.css"/>
+<link rel="stylesheet" type="text/css" href="src/L.Control.ZoomBar.css"/>
+<script type="text/javascript" src="src/leaflet.js"></script>
+<script type="text/javascript" src="src/L.Control.ZoomBar.js"></script>
+
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"/>
+<link rel="stylesheet" href="leaflet.zoomhome.css"/>
+<script src="leaflet.zoomhome.min.js"></script>
+
+<link rel="stylesheet" href="cssmenu/styles.css">
+<script src="cssmenu/script.js"></script>
+
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
+<link rel="stylesheet" href="http://jqueryui.com/resources/demos/style.css">
+
+<link href='https://api.mapbox.com/mapbox.js/v2.3.0/mapbox.css' rel='stylesheet' />
+
+<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+<script src="http://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+
+body {
+  height: 97.5%;
+  padding: 0;
+  margin: 0;
+}
+html,
+body,
+#map {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  //width: 100%;
+}.leaflet-bar a { background-color: #fff; border-bottom: 1px solid #ccc; color: #444; display: block; height: 26px; width: 26px; line-height: 1.45 !important; text-align: center; text-decoration: none; font: bold 18px 'Lucida Console', Monaco, monospace; }
