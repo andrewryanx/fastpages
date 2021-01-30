@@ -1,11 +1,9 @@
 ---
-title: Python Cheat Sheet
-date: 2021-01-29 10:01:00 -0000
-description: 
-layout: post
 toc: true
-comments: false
+layout: post
+description: Example of blog post
 categories: [Python]
+title: Python Cheat Sheet
 sticky_rank: 1
 ---
 
