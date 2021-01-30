@@ -32,6 +32,11 @@
         * temporal analytics
     * datashader big data visualization
     * twitter api streaming
+    * web maps
+        * geonames
+        * update potholes
+        * update twitter map
+    * postgres install
     * ubuntu/linux package installs
 
 ----------
