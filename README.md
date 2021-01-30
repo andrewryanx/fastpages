@@ -8,9 +8,7 @@
 # [My Blog](https://andrewryanx.github.io/site/)
 
 **To Do:**
-* * **add permalinks to posts -_-**
 * Finish about me
-* Add URL to HackerRank problems
 * HackerRank Python problems
 * HackerRank stats problems
 * Reformat projects page
@@ -24,10 +22,10 @@
     * scikit-learn
         * regression
             * house price prediction
-        * random forrest 
+        * satellite image classification w/ random forrest 
     * dbscan
     * lda/topic modeling
-    * similarity function
+    * entity similarity
     * hotspot analytics
     * significant location inference
         * cluster pmf 
