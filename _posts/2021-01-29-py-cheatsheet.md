@@ -6,8 +6,7 @@ layout: post
 toc: true
 comments: false
 categories: [Python]
-sticky_rank: 2
-permalink: /2021-01-29-py-cheatsheet/
+sticky_rank: 1
 ---
 
 ### Python Cheat Sheet
