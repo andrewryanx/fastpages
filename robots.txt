@@ -1,1 +1,1 @@
-Sitemap: https://andrewryanx.github.io/fastpages/sitemap.xml
+Sitemap: https://andrewryanx.github.io/site/sitemap.xml
