@@ -74,6 +74,15 @@ exclude:
 include:
   - _pages
 
+#add/organize header pages
+header_pages:
+  - _pages/about.md
+  - _pages/resume.md
+  #- _pages/projects.md
+  - _pages/resources.md
+  - _pages/search.html
+  - _pages/tags.html
+
 # This specifies what badges are turned on by default for notebook posts.
 default_badges:
   github: true
