@@ -27,11 +27,19 @@ If you see something that is incorrect or would like to add to it, feel free to 
 ----------
 ### Other Resources
 
+[Data Scientist Path - Microsoft Learn](https://docs.microsoft.com/en-us/learn/roles/data-scientist)
+
+[Foundations of Data Science - Microsoft Learn](https://docs.microsoft.com/en-us/learn/paths/foundations-data-science/)
+
+[Elements of Data Science - AWS Training](https://www.aws.training/Details/eLearning?id=26598)
+
+[Math for Machine Learning - AWS Training](https://www.aws.training/Details/eLearning?id=26597)
+
 YouTube Playlists:
 
 [Machine Learning - Andrew Ng](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
-[Stanford CS229: Machine Learning | Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+[Stanford CS229: Machine Learning, Autumn 2018 - Andrew Ng](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 
 [Neural Networks and Deep Learning (Course 1 of the Deep Learning Specialization) - Andrew Ng](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
 
@@ -41,7 +49,7 @@ YouTube Playlists:
 
 [Convolutional Neural Networks (Course 4 of the Deep Learning Specialization) - Andrew Ng](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
 
-[Stanford CS221: Artificial Intelligence: Principles and Techniques | Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
+[Stanford CS221: Artificial Intelligence: Principles and Techniques, Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
 
 [MIT 18.650 Statistics for Applications, Fall 2016](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
