@@ -11,7 +11,7 @@ permalink: /projects/
 ----------
 ### Web Maps
 
-[Custom Tweet Map Using MBTiles](https://andrewryanx.github.io/site/web_maps/twitter_mbtiles/index.html)
+[10M Tweets Visualized using Vector Tiles, MapBox Styles, & Leaflet](https://andrewryanx.github.io/site/web_maps/twitter_mbtiles/index.html)
 
 [Tweet Map](https://andrewryanx.github.io/site/web_maps/twitter_mining/index.html)
 
