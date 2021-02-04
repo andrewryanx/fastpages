@@ -1,6 +1,6 @@
 // Define map instance
-var lat = 38.897697;
-var long = -77.036579;
+var lat = 36.09;
+var long = -98.85;
 var zoom = 3;
 
 var map = L.map('map',{
