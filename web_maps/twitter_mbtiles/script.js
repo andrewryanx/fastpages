@@ -92,7 +92,7 @@ zoomHome.addTo(map);
 // Variables setting basemap layers
 // Mapbox Streets/Satellite max zoom level=20, OSM=18
 
-var MapboxSatellite = L.tileLayer(
+var customStyle = L.tileLayer(
   "https://api.mapbox.com/styles/v1/andrrvt15/cjtkk048b0xop1fl5126npyot/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYW5kcnJ2dDE1IiwiYSI6ImNqbnZjZjZjdDA2ZnEzcWtiaGNnOW0ycWwifQ.Z5TqMbq4qCI0rCV4rZHRGg",
   {
     maxZoom: 20,
@@ -100,15 +100,6 @@ var MapboxSatellite = L.tileLayer(
       "<a href=\"https://www.mapbox.com/about/maps/\" target=\"_blank\">&copy; Mapbox</a> <a href=\"http://www.openstreetmap.org/about/\" target=\"_blank\">&copy; OpenStreetMap</a> <a class=\"mapbox-improve-map\" href=\"https://www.mapbox.com/map-feedback/\" target=\"_blank\">Improve this map</a> <a href=\"https://www.digitalglobe.com/\" target=\"_blank\">&copy; DigitalGlobe</a>"
   }
 ).addTo(map);
-
-var OSM = L.tileLayer(
-  "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-  {
-    maxZoom: 18,
-    attribution:
-      '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-  }
-)
 
 // Variable setting marker clusters
 // source: ttps://github.com/Leaflet/Leaflet.markercluster
@@ -126,14 +117,5 @@ var geojsonMarkerOptions = {
 
 // Variables to set layers in layer selection
 var baseMaps = {
-"Mapbox Satellite": MapboxSatellite,
-"OSM": OSM,
+"Custom Style": customStyle,
 };
-
-
-// Layer selections
-// source: https://leafletjs.com/examples/layers-control/
-L.control.layers(baseMaps, overlayMaps).addTo(map);
-// Box zoom
-// source: https://github.com/gregallensworth/L.Control.BoxZoom
-L.Control.boxzoom({ position:'topleft' }).addTo(map);
