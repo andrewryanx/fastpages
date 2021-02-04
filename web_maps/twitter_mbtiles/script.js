@@ -1,7 +1,7 @@
 // Define map instance
 var lat = 36.09;
 var long = -98.85;
-var zoom = 3;
+var zoom = 4;
 
 var map = L.map('map',{
     minZoom: 3,
