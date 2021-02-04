@@ -1,10 +1,10 @@
 // Define map instance
 var lat = 38.897697;
 var long = -77.036579;
-var zoom = 7;
+var zoom = 3;
 
 var map = L.map('map',{
-    minZoom: 7,
+    minZoom: 3,
     maxZoom: 20,
     zoomControl: false,                // set to false
   }).setView([lat,long], zoom);   // sets the home position
