@@ -184,6 +184,10 @@ window.onload = wrap_img;
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">df</span><span class="p">.</span><span class="n">dropna</span><span class="p">(</span><span class="n">axis</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span><span class="err"> </span><span class="n">how</span><span class="o">=</span><span class="s">'any'</span><span class="p">,</span><span class="err"> </span><span class="n">subset</span><span class="o">=</span><span class="p">[</span><span class="s">'columns to drop if null values exist'</span><span class="p">])</span> 
 </code></pre></div></div>
 
+<p>Get the distinct values of a column</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">df</span><span class="p">[</span><span class="s">'column'</span><span class="p">].</span><span class="n">unique</span><span class="p">()</span> 
+</code></pre></div></div>
+
 <p>Get the number of distinct values in a column</p>
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">df</span><span class="p">[</span><span class="s">'column'</span><span class="p">].</span><span class="n">nunique</span><span class="p">()</span> 
 </code></pre></div></div>
