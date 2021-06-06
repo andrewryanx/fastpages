@@ -93,6 +93,11 @@ Drop null values
 df.dropna(axis=0, how='any', subset=['columns to drop if null values exist']) 
 ```
 
+Get the distinct values of a column
+```python
+df['column'].unique() 
+```
+
 Get the number of distinct values in a column
 ```python
 df['column'].nunique() 
